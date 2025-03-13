@@ -1,2 +1,2 @@
-# food-image-classification
+# Food Image Classification
 A food image classification system using Hugging Face's pre-trained models to automatically categorize food items in user-uploaded photos.
